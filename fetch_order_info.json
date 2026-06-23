@@ -1,6 +1,6 @@
 {
   "orders": {
-    "Simeon": {
+    "simeon": {
       "package_contents": [
         "Milk",
         "Sugar",
@@ -10,7 +10,7 @@
       "expected_delivery_date": "22-06-2026",
       "current_location": "Stavanger"
     },
-    "Frodo": {
+    "frodo": {
       "package_contents": [
         "The one ring",
         "Lembas bread"
@@ -19,7 +19,7 @@
       "expected_delivery_date": "20-10-1955",
       "current_location": "Mordor"
     },
-    "Hagrid": {
+    "dumbledore": {
       "package_contents": [
         "The boy who lived"
       ],
