@@ -1,0 +1,31 @@
+{
+  "orders": {
+    "Simeon": {
+      "package_contents": [
+        "Milk",
+        "Sugar",
+        "Eggs"
+      ],
+      "delivery_status": "Underway",
+      "expected_delivery_date": "22-06-2026",
+      "current_location": "Stavanger"
+    },
+    "Frodo": {
+      "package_contents": [
+        "The one ring",
+        "Lembas bread"
+      ],
+      "delivery_status": "Delivered",
+      "expected_delivery_date": "20-10-1955",
+      "current_location": "Mordor"
+    },
+    "Hagrid": {
+      "package_contents": [
+        "The boy who lived"
+      ],
+      "delivery_status": "Delivered",
+      "expected_delivery_date": "01-11-1991",
+      "current_location": "4 Privet Drive"
+    }
+  }
+}
