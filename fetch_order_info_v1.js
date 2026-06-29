@@ -1,4 +1,4 @@
-Module.exports = async (data, logger, callback) => {
+module.exports = async (data, logger, callback) => {
 	try {
     logger.log("Constructing variables");
     
